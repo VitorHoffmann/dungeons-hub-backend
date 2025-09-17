@@ -31,3 +31,9 @@ build/
 
 ### VS Code ###
 .vscode/
+
+/.mvn/wrapper/maven-wrapper.properties
+/data/moviedb.mv.db
+/data/moviedb.trace.db
+/mvnw
+/mvnw.cmd
